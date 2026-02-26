@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: 'Andrés Felipe Echeverri Serrano',
-  career: 'Estudiante de Ingeniería Informática (Octavo semestre)',
+  career: 'Estudiante de Ingeniería Informática (Noveno semestre)',
   university: 'Universidad de Caldas',
   location: 'La Dorada, Caldas – Colombia',
   email: 'echeverrifelipe53@gmail.com',
